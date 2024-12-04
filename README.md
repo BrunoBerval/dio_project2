@@ -9,14 +9,10 @@ This project presents two approaches to image dimensionality reduction: one deve
 
 
 ### Imagem original / Original image
-<img src="https://drive.google.com/uc?id=1BXQPPYh9wBVdLIGBJVgPRFmHex86jc_J" width="400" height="400">
+<img src="https://drive.google.com/uc?id=1BXQPPYh9wBVdLIGBJVgPRFmHex86jc_J" width="400" height="300">
 
 ### Tons de cinza / Grayscale
-<img src="https://drive.google.com/uc?id=1iTcng7Oam7-JaMqELaW8QCbnKYAn7WrZ" width="400" height="400">
+<img src="https://drive.google.com/uc?id=1iTcng7Oam7-JaMqELaW8QCbnKYAn7WrZ" width="400" height="300">
 
 ### Binário / Binary
-<img src="https://drive.google.com/uc?id=1kh_SEbg4aPFoY76r46X6dJBwjV3jtP_6" width="400" height="400">
-
-https://drive.google.com/file/d/1BXQPPYh9wBVdLIGBJVgPRFmHex86jc_J/view?usp=sharing
-https://drive.google.com/file/d/1iTcng7Oam7-JaMqELaW8QCbnKYAn7WrZ/view?usp=drive_link
-https://drive.google.com/file/d/1kh_SEbg4aPFoY76r46X6dJBwjV3jtP_6/view?usp=drive_link
+<img src="https://drive.google.com/uc?id=1kh_SEbg4aPFoY76r46X6dJBwjV3jtP_6" width="400" height="300">
